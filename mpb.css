@@ -1,0 +1,171 @@
+@charset "UTF-8";
+
+header{ 
+    background-color: rgba(220, 111, 94, 0.567);
+    border-radius: 9px 9px 9px 0; 
+    margin: -18px -10px -4px -10px; 
+    padding: 10px;
+    
+  
+    
+}
+body {
+    background-image:linear-gradient( to bottom, #EB717A,#EA826B,#EAA168 );
+    background-attachment: fixed;
+}
+.t1{
+    text-align: center;
+    font-size: 25px;
+    margin: auto;
+    border-radius: 8px 8px 8px 0;
+    background-color: rgba(255, 228, 196, 0.379);
+    padding: 20px;
+}
+nav a{
+   
+    padding-bottom: 25px;
+    color: white;
+    padding: 0 15px 5px 10px;
+}
+
+.a2:hover{
+    background-color:#EAA168;
+    color: black;
+    text-decoration: underline;
+    border-radius: 0 0 8px 8px;
+}
+
+.tp1{
+    margin: 5px;
+    background-image: linear-gradient(to right,#d18e5b, transparent );
+    border-radius: 8px 0 0 8px;
+    padding-left: 7px;
+}
+
+.tp2{
+    margin: 20px;
+    background-image: linear-gradient(to right,#d18e5b, transparent );
+    border-radius: 8px 0 0 8px;
+    padding-left: 7px;
+}
+
+.img1{
+    background-image: url(../imagens/dd.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img1 > p{
+    width: 400px;
+    margin: 10px;
+    
+}
+
+.a1:hover{
+    background-color:#EB717A ;
+    color: purple;
+    text-decoration: underline;
+}
+.a1{
+    text-decoration: underline;
+}
+
+.p1{
+    text-indent: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    background-color: rgba(255, 228, 196, 0.573);
+    text-align: justify;
+    padding: 13px;
+    margin: 8px;
+}
+
+.t2{
+   text-align: center;
+   margin-bottom: 0;
+}
+.s1{
+display: flex;
+flex-direction: row;
+margin: auto;
+
+margin-top: 0;
+}
+.s2{
+display: flex;
+flex-direction: row;
+margin: auto;
+
+
+
+}
+
+.bloco1{
+
+     margin:auto 50px 4px auto;
+    background-color: bisque;
+    text-align: center;
+    width: 300px;
+    border-radius: 7px;
+    padding: 5px;
+    
+   
+}
+
+.bloco2{
+  
+    margin: auto auto auto auto;
+    text-align: center;
+    background-color: bisque;
+    width: 300px;
+    border-radius: 7px;
+    padding: 5px;
+   
+}
+
+.bloco3{
+    margin:auto 50px auto auto;
+    text-align: center;
+    background-color: bisque;
+    width: 300px;
+    border-radius: 7px;
+    padding: 5px;
+    
+}
+
+.bloco4{
+    margin: 3px auto auto auto;
+    text-align: center;
+    background-color: bisque;
+    width: 300px;
+    border-radius: 7px;
+    padding: 5px;
+  
+}
+
+h2{
+    text-align: left;
+}
+h3{
+    text-align: right;
+    
+}
+p{
+    font-family: 'Courier New', Courier, arial;
+    font-weight: bolder;
+    background-color: bisque;
+    line-height: 28px;
+    text-align: justify;
+    padding: 8px;
+
+}
+h3:hover{
+background-color: yellow;
+border: 2px solid black;
+
+}
+a{
+color: black;
+text-decoration: none;
+
+}
