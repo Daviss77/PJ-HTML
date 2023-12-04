@@ -211,3 +211,16 @@ footer {
     text-align: center;
 
 }
+@media screen and ( orientation: portrait) {
+  .s1, .s2{
+    display: block;
+  }
+  .bloco1, .bloco2, .bloco3, .bloco4{
+    margin: 7px 8px 8px 65px;
+    padding: 10px;
+  }
+}
+
+@media screen and ( orientation: landscape) {
+    
+}
