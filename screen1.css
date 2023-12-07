@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+@media screen and (orientation: portrait) {
+    .pos{
+        margin: 5px 1px;
+    }
+    .p2{
+        max-width: 720px;
+        width: 300px;
+        margin-left: 60px;
+        text-align: justify;
+    }
+    
+    .tp2{
+        margin: 20px 1px;
+    }
+    .img1{
+        max-width: 720px;
+        min-width: 400px;
+        width: 473px;
+        background: cover;
+        background-repeat: no-repeat;
+        border-radius: 0 6px 0 6px;
+    }
+    .img2{
+        margin-left: 5px;
+        max-width: 720px;
+        min-width: 400px;
+        width: 473px;
+        background: cover;
+        background-repeat: no-repeat;
+        border-radius: 0 6px 0px 6px;
+    }
+    .p3{
+        width: 400px;
+        background-color: rgba(0, 0, 0, 0.547);
+        color: rgb(255, 255, 255);
+        font-size: 18px;
+    }}
+    .roda{
+        padding-left: 100px;
+    }
+    

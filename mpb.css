@@ -59,9 +59,16 @@ nav a{
     width: 70em;
     height: 50vh;
     background-size: contain;
-    
-
 }
+.img2{
+    background-image: url(..//imagens/dd2.jpg);
+    background-attachment: fixed;
+    background-position: top center;
+    width: 70em;
+    height: 50vh;
+    background-size: contain;
+}
+
 .img1 > p{
     width: 400px;
     margin: 10px;
@@ -211,6 +218,10 @@ footer {
     text-align: center;
 
 }
+footer:hover{
+    text-decoration: underline;
+}
+
 @media screen and ( orientation: portrait) {
   .s1, .s2{
     display: block;
