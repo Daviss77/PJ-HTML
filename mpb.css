@@ -201,7 +201,8 @@ p{
     background-color: bisque;
     line-height: 28px;
     text-align: justify;
-    padding: 8px;
+    padding: 3px;
+    padding-left: 70px;
 
 }
 h3:hover{
@@ -214,20 +215,12 @@ color: black;
 text-decoration: none;
 
 }
-footer {
-    text-align: center;
-
-}
-footer:hover{
-    text-decoration: underline;
-}
-
 @media screen and ( orientation: portrait) {
   .s1, .s2{
     display: block;
   }
   .bloco1, .bloco2, .bloco3, .bloco4{
-    margin: 7px 8px 8px 65px;
+    margin: 7px 8px 8px 15px;
     padding: 10px;
   }
 }

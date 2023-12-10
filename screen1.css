@@ -4,10 +4,13 @@
     .pos{
         margin: 5px 1px;
     }
+    header{
+        text-align: center;
+    }
     .p2{
         max-width: 720px;
         width: 300px;
-        margin-left: 60px;
+        margin-left: 20px;
         text-align: justify;
     }
     
@@ -37,7 +40,11 @@
         color: rgb(255, 255, 255);
         font-size: 18px;
     }}
-    .roda{
-        padding-left: 100px;
+  
+    footer > p:hover{
+        text-decoration: underline;
+        color: purple;
+        background-color: greenyellow;
+
     }
     
