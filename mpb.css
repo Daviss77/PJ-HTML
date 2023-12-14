@@ -37,7 +37,12 @@ nav a{
     text-decoration: underline;
     border-radius: 0 0 8px 8px;
 }
-
+#hr{
+    padding-left: 400px;
+    color: white;
+    font-style: italic;
+    text-decoration: underline black;
+}
 .tp1{
     margin: 5px 2px;
     background-image: linear-gradient(to right,rgba(255, 255, 255, 0.566), transparent );
@@ -87,6 +92,9 @@ nav a{
 .pos{
     margin-left: 17%;
     
+}
+.ww{
+    padding-left: 5px;
 }
 
 .p1{
