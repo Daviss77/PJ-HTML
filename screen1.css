@@ -7,9 +7,15 @@
     header{
         text-align: center;
     }
-    p{
-        padding-left: 2px;
+    #hr{
+    padding-left: 3px;
     }
+    .p1{
+        max-width: 720px;
+        min-width: 300px;
+        width: 365px;
+    }
+
 
     .p2{
         max-width: 720px;
